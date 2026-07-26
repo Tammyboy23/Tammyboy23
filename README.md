@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tammyboy23">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Tammy" alt="Hello! I&#39;m Tammy" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0000&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Tammy" alt="Hello! I&#39;m Tammy" />
   </a>
 </p>
 
